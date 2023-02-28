@@ -10,8 +10,8 @@
 <body>
     <div id="overview">
         <div id="top-map">
-            <div id="about-map">About</div>
-            <div id="whoami-map">Who am I?</div>
+            <div id="about-map">About us</div>
+            <div id="whoami-map">Who are we?</div>
             <div id="home-map">Home</div>
             <div id="projects-map">Projects</div>
         </div>
