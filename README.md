@@ -18,7 +18,7 @@
         <h1>MrMonkey's website</h1>
     </div>
     <div id="links">
-        <a id="discord-link" href="example.html">Discord Link</a>
+        <a id="discord-link" href="https://discord.gg/MuPgaunhtd">Discord server</a>
     </div>
 </body>
 </html>
